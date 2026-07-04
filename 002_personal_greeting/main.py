@@ -1,0 +1,8 @@
+print("Как тебя зовут?")
+name = input()
+print("Сколько тебе лет?")
+age = int(input())
+print(f"Привет, {name}!")
+nextYearAge = str(age + 1)
+print(f"В следующем году тебе будет {nextYearAge}!")
+print(f"Ты прожил(а) {str(age // 10)} полных десятилетий")
