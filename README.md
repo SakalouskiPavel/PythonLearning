@@ -55,8 +55,9 @@ PythonLearning/
 | [002 — «Персональное приветствие»](002_personal_greeting/TASK.md) | Выполнена | 9/10 |
 | [003 — «Анализатор числа»](003_number_analyzer/TASK.md) | Выполнена | 10/10 |
 | [004 — «Числовой отчёт»](004_number_report/TASK.md) | Выполнена | 10/10 |
-| [005 — «Угадай число»](005_guess_the_number/TASK.md) | Текущая | — |
+| [005 — «Угадай число»](005_guess_the_number/TASK.md) | Выполнена | 10/10 |
+| [006 — «Список покупок»](006_shopping_list/TASK.md) | Текущая | — |
 
 ## Текущая задача
 
-[Задача 005 — «Угадай число»](005_guess_the_number/TASK.md)
+[Задача 006 — «Список покупок»](006_shopping_list/TASK.md)
